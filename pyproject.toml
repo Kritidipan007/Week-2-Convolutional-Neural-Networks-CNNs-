@@ -1,0 +1,13 @@
+[project]
+name = "cifar10-cnn"
+version = "0.1.0"
+description = "End-to-end CNN project for CIFAR-10 classification (portfolio-ready)"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name="Your Name"}]
+
+[tool.ruff]
+line-length = 100
+
+[tool.black]
+line-length = 100
